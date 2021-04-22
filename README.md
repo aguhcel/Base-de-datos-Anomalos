@@ -1,4 +1,4 @@
 # Base-de-datos-Anomalos
-Base de datos utilizada en los artículos propuestos por Lechuga en el CIRC 2020-2021
+Base de datos utilizada en los artículos propuestos por Lechuga, Sánchez, et. al., en el Congreso Internacional de Robótica y Computación (CIRC) La paz Edicion VII-VIII
 
 Exito!
